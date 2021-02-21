@@ -1,6 +1,6 @@
 # dig1ts
 
-
+Recognizes the number (0-9) drawn on the canvas.
 
 Check out the app at https://dig1ts.herokuapp.com/ and elliotwaite on youtube.
 
