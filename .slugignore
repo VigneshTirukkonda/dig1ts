@@ -1,2 +1,5 @@
 config.py
 model.py
+.gitignore
+__pycache__
+README.md
